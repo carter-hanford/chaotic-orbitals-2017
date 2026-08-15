@@ -1,8 +1,10 @@
 # Chaotic Orbitals & the Lorenz Equations
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-Improved%20Euler-orange?logo=mathworks)](https://www.mathworks.com/)
-[![Course](https://img.shields.io/badge/MATH--3550-Differential%20Equations-blue)](https://www.slu.edu/)
-[![School](https://img.shields.io/badge/Saint%20Louis%20University-Fall%202017-003da5)](https://www.slu.edu/)
+[![](https://img.shields.io/badge/MATH--3550-Differential%20Equations-blue.svg)](https://github.com/carter-hanford/chaotic-orbitals-2017)
+[![](https://img.shields.io/badge/semester-fall%202017-orange.svg)](https://github.com/carter-hanford/chaotic-orbitals-2017)
+[![](https://img.shields.io/badge/release-complete-brightgreen.svg)](https://github.com/carter-hanford/chaotic-orbitals-2017)
+[![](https://img.shields.io/badge/MATLAB-Improved%20Euler-e16737.svg?logo=mathworks)](https://www.mathworks.com/)
+[![](https://img.shields.io/github/repo-size/carter-hanford/chaotic-orbitals-2017.svg)](https://github.com/carter-hanford/chaotic-orbitals-2017)
 
 Chaotic Orbitals is a group project for **MATH-3550 (Differential Equations)** at Saint Louis University. It reproduces the results of Edward Lorenz's 1963 paper *"Deterministic Nonperiodic Flow"* — the work that gave us the **butterfly effect** and helped launch modern chaos theory.
 
